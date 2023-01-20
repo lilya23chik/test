@@ -7,7 +7,5 @@ Add line
 Add Line
 Add Line
 add line
-<<<<<<< HEAD
 commit test
-=======
->>>>>>> 9ea110b47c33f80384011374e1ba9c76e418f3e0
+
